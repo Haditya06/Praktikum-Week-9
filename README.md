@@ -136,16 +136,16 @@ Disertai:
 * Setter
 * Getter
 
-## ▶️ Cara Menjalankan Program
+## ▶️ Cara Menjalankan Program di terminal
 
 ### Compile:
 
 ```
-javac src/*.java
+javac src/*.javac NameFile.java
 ```
 
 ### Jalankan:
 
 ```
-java MainNilai
+javac src/*java NameFile
 ```
