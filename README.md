@@ -10,7 +10,7 @@ Repositori ini berisi penyelesaian **Praktikum 7** mata kuliah Pemrograman Dasar
 * Pengamatan — Penjelasan Keyword `this`
 * Jurnal Mandiri — Transaksi TelUCoffee
 * Struktur Project
-* Cara Menjalankan
+* Cara Menjalankan 
 
 ---
 
