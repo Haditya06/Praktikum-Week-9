@@ -4,7 +4,7 @@ Repositori ini berisi penyelesaian **Praktikum 7** mata kuliah Pemrograman Dasar
 
 
 ## 📘 Daftar Isi
-
+ 
 * Soal 1 — Fungsi F(x, y)
 * Soal 2 — Perhitungan Nilai Mata Kuliah (OOP)
 * Pengamatan — Penjelasan Keyword `this`
