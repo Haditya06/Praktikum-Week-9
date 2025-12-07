@@ -2,7 +2,7 @@
 # 🌈✨ Praktikum 8 — Prosedur & Fungsi (Java) — 😎🔥
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-💛-orange"> 
+  <img src="https://img.shields.io/badge/Java-💛-orange">  
   <img src="https://img.shields.io/badge/Vibes-Gen%20Z-pink"> 
   <img src="https://img.shields.io/badge/Mood-Productive-green">
 </p>
