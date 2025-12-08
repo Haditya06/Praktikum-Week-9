@@ -1,4 +1,4 @@
-# 🌈✨ Praktikum Week 9 — Prosedur & Fungsi Java (Gen Z Edition)
+# ✨ Praktikum Week 9 — Prosedur & Fungsi Java (Gen Z Edition)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Ready-orange?style=flat-square">
@@ -64,6 +64,8 @@ public class HitungKarakter {
         System.out.println("Karakter Khusus : " + special);
     }
 }
+
+```
 📊 Output
 yaml
 Salin kode
@@ -71,12 +73,12 @@ Vokal : 3
 Konsonan : 4
 Angka : 3
 Karakter Khusus : 3
-🕌 Praktik 2 — Zakat Calculator 2.5%
+
+
+🕌 ## Praktik 2 — Zakat Calculator 2.5%
 Ngoding sambil inget akhirat vibes-nya beda 🤲✨
 
-🔧 Source Code
-java
-Salin kode
+```
 public class ZakatPenghasilan {
 
     static double hitungNisab(double hargaEmas) {
@@ -106,12 +108,12 @@ public class ZakatPenghasilan {
         }
     }
 }
+```
+
 💰 Jurnal Mandiri — Kalkulator PPH (Chill Edition)
 Hitung pajak tapi tetap tenang, bukan overthinking 😭✨
 
-🔧 Source Code
-java
-Salin kode
+```
 public class PajakPenghasilan {
 
     static int hitungPTKP(String status, int anak) {
@@ -151,3 +153,4 @@ public class PajakPenghasilan {
         System.out.println("Total Pajak = " + pajak + " 💸");
     }
 }
+```
