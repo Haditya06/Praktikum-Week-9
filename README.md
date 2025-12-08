@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Mood-Productive-green">
 </p>
  
-> **🚀 Welcome bestie!**
+> **🚀 Welcome bestie!** 
 > Ini adalah versi README *full aesthetic Gen Z energy*, biar tugasmu nggak cuma bener — tapi juga SLAY 💅😤🔥
 
 Repo ini isinya:
