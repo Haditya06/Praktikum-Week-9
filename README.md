@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Mood-Productive-green?style=flat-square">
 </p>
 
-> **Hai bestie!**  
-> Welcome ke repo *paling chill* buat belajar prosedur & fungsi di Java.  
-> Biar ngoding tetap santai tapi tetap **slay & berkualitas** 💅🔥
-
 Repo ini berisi:
 
 - 🧩 **Praktik 1** — Hitung vokal, konsonan, angka & special char  
