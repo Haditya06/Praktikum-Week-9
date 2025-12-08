@@ -66,7 +66,7 @@ public class HitungKarakter {
 }
 
 ```
-📊 Output
+## 📊 Output
 yaml
 Salin kode
 Vokal : 3
@@ -75,7 +75,7 @@ Angka : 3
 Karakter Khusus : 3
 
 
-🕌 ## Praktik 2 — Zakat Calculator 2.5%
+## 🕌 Praktik 2 — Zakat Calculator 2.5%
 Ngoding sambil inget akhirat vibes-nya beda 🤲✨
 
 ```
@@ -110,7 +110,7 @@ public class ZakatPenghasilan {
 }
 ```
 
-💰 Jurnal Mandiri — Kalkulator PPH (Chill Edition)
+## 💰 Jurnal Mandiri — Kalkulator PPH (Chill Edition)
 Hitung pajak tapi tetap tenang, bukan overthinking 😭✨
 
 ```
