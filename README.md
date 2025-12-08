@@ -1,36 +1,35 @@
-# Praktikum-Week-9
-# 🌈✨ Praktikum 8 — Prosedur & Fungsi (Java) — 😎🔥
+# 🌈✨ Praktikum Week 9 — Prosedur & Fungsi Java (Gen Z Edition)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-💛-orange">  
-  <img src="https://img.shields.io/badge/Vibes-Gen%20Z-pink"> 
-  <img src="https://img.shields.io/badge/Mood-Productive-green">
+  <img src="https://img.shields.io/badge/Java-Ready-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Vibes-Gen%20Z-pink?style=flat-square">
+  <img src="https://img.shields.io/badge/Mood-Productive-green?style=flat-square">
 </p>
- 
-> **🚀 Welcome bestie!** 
-> Ini adalah versi README *full aesthetic Gen Z energy*, biar tugasmu nggak cuma bener — tapi juga SLAY 💅😤🔥
 
-Repo ini isinya:
+> **Hai bestie!**  
+> Welcome ke repo *paling chill* buat belajar prosedur & fungsi di Java.  
+> Biar ngoding tetap santai tapi tetap **slay & berkualitas** 💅🔥
 
-* 🧩 *Praktik 1:* Ngitung vokal, konsonan, angka, dan karakter spesial
-* 🕌 *Praktik 2:* Kalkulator zakat — biar auto berkah 🤲✨
-* 💰 *Jurnal Mandiri:* Hitung pajak (PPH) — versi gampang tanpa pusing kayak hidup 😭
+Repo ini berisi:
 
----
-
-# 🎯 **Goal? Simple:**
-
-* Biar kamu ngerti **method**, **parameter**, **scope**, dan ngoding Java tanpa stress 😭☕
-* Biar file kamu aesthetic + siap naik GitHub biar diliat HRD 😎📈
+- 🧩 **Praktik 1** — Hitung vokal, konsonan, angka & special char  
+- 🕌 **Praktik 2** — Kalkulator zakat 2.5% (auto berkah edition)  
+- 💰 **Jurnal Mandiri** — Hitung pajak PPH (versi anti-stress)
 
 ---
 
-# 🧩 Praktik 1 — *Ngitung Vokal, Konsonan, Angka, Special Char*
+# 🎯 Goals  
+- Biar kamu makin ngerti **method**, **parameter**, dan **logic bersih**.  
+- README lebih aesthetic, rapi, dan siap tampil di GitHub buat impress HRD 😎📈  
 
-🗣️ "POKEMON123&*." tapi vibes-nya data analyst 😭🔥
+---
 
-## 🔍 Kode (slay version):
+# 🧩 Praktik 1 — Hitung Vokal, Konsonan, Angka, & Special Char
 
+Contoh input: `"POKEMON123&*."`  
+Vibes: data analyst tapi masih gaming 🎮🔥
+
+## 🔧 Source Code
 ```java
 public class HitungKarakter {
 
@@ -52,7 +51,7 @@ public class HitungKarakter {
     }
 
     public static void main(String[] args) {
-        String kalimat = "POKEMON123&*."; // vibes gaming 🎮🔥
+        String kalimat = "POKEMON123&*.";
 
         int vokal = 0, kons = 0, angka = 0, special = 0;
 
@@ -69,28 +68,19 @@ public class HitungKarakter {
         System.out.println("Karakter Khusus : " + special);
     }
 }
-```
-
-## 📊 Output (real, no filter):
-
-```
+📊 Output
+yaml
+Salin kode
 Vokal : 3
 Konsonan : 4
 Angka : 3
 Karakter Khusus : 3
-```
+🕌 Praktik 2 — Zakat Calculator 2.5%
+Ngoding sambil inget akhirat vibes-nya beda 🤲✨
 
-🥹✨
-
----
-
-# 🕌 Praktik 2 — *Zakat Calculator 2.5% Edition*
-
-Karena ngoding sambil inget akhirat vibes-nya beda 🫶🤲✨
-
-## ✨ Code — aesthetic & halal
-
-```java
+🔧 Source Code
+java
+Salin kode
 public class ZakatPenghasilan {
 
     static double hitungNisab(double hargaEmas) {
@@ -120,17 +110,12 @@ public class ZakatPenghasilan {
         }
     }
 }
-```
+💰 Jurnal Mandiri — Kalkulator PPH (Chill Edition)
+Hitung pajak tapi tetap tenang, bukan overthinking 😭✨
 
----
-
-# 💰 Jurnal Mandiri — *PPH Calculator (Notion aesthetic)*
-
-Hitung pajak tapi vibes chill, bukan anxiety 😭📉
-
-## 💡 Source Code
-
-```java
+🔧 Source Code
+java
+Salin kode
 public class PajakPenghasilan {
 
     static int hitungPTKP(String status, int anak) {
@@ -170,4 +155,3 @@ public class PajakPenghasilan {
         System.out.println("Total Pajak = " + pajak + " 💸");
     }
 }
-```
