@@ -1,4 +1,4 @@
-# ✨ Praktikum Week 9 — Prosedur & Fungsi Java (Gen Z Edition)
+# ✨ Praktikum Week 9 — Prosedur & Fungsi Java 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Ready-orange?style=flat-square">
