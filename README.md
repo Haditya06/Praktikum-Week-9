@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Ready-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Vibes-Gen%20Z-pink?style=flat-square">
+  <img src="https://img.shields.io/badge/Vibes-Gen%20Z-pink?style=flat-square"> 
   <img src="https://img.shields.io/badge/Mood-Productive-green?style=flat-square">
 </p>
 
