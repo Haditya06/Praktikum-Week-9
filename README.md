@@ -10,7 +10,7 @@ Repo ini berisi:
 
 - 🧩 **Praktik 1** — Hitung vokal, konsonan, angka & special char  
 - 🕌 **Praktik 2** — Kalkulator zakat 2.5% (auto berkah edition)  
-- 💰 **Jurnal Mandiri** — Hitung pajak PPH (versi anti-stress)
+- 💰 **Jurnal Mandiri** — Hitung pajak PPH (versi anti-stress) 
 
 ---
 
